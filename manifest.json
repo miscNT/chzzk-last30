@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "신삼국지 같이보기 예고편 화면차단",
-  "version": "1.2.0",
-  "description": "치지직에서 영상의 마지막 30초 화면을 자동으로 가립니다.",
+  "name": "신삼국지 같이보기 예고편 스포일러 방지",
+  "version": "1.4.0",
+  "description": "치지직에서 영상의 마지막 30초(다음 화 예고편) 화면을 자동으로 가립니다.",
   "permissions": ["storage"],
   "content_scripts": [
     {
